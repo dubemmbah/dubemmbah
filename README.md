@@ -23,4 +23,4 @@
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemmbah&hide_progress=true)
-![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemmbah&show=reviews)
+![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemmbah&show=reviews&hide_rank=true)
