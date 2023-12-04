@@ -22,5 +22,5 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemmbah&hide_progress=true)
 ![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemmbah&show=reviews)
