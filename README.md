@@ -23,3 +23,4 @@
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemmbah&layout=donut-vertical)](https://github.com/dubemmbah/github-readme-stats)
+![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemmbah&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
