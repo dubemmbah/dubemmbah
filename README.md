@@ -3,9 +3,9 @@
 #### A passionate frontend developer from Lagos, Nigeria.
 
 * 👨🏾‍💻 Currently working on securing an internship / junior developer role.
-* Looking to work with people that are passionate about building innovative projects
-* You can reach me via dubemmbah@gmail.com
-* Fun fact: I am an awesome team player
+* 👬🏾 Looking to work with people that are passionate about building innovative projects
+* 💬 You can reach me via dubemmbah@gmail.com
+* 🤩 Fun fact: I am an awesome team player
 
 
 #### Connect with me:
