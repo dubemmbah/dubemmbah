@@ -1,6 +1,6 @@
 ## Hello, I'm Chukwudubem Mbah
 
-### A passionate frontend developer from Lagos, Nigeria.
+### A dedicated Frontend developer from the vibrant city of Lagos.
 
 * 👨🏾‍💻 Currently working on securing an internship / junior developer role.
 * 👬🏾 Looking to work with people that are passionate about building innovative projects
