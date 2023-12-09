@@ -1,5 +1,7 @@
 ## Hello, I'm Chukwudubem Mbah
 
+![Profile Views](https://hits.dwyl.com/dubemmbah/dubemmbah/READMEmd.svg)
+
 ### A dedicated Frontend developer from the vibrant city of Lagos.
 
 * 👨🏾‍💻 Actively pursuing opportunities for an internship or a junior developer role.
