@@ -9,7 +9,7 @@
 
 
 ### Connect with me:
-[![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/dubem_mbah)
+[![Twitter](https://img.shields.io/twitter/follow/dubem_mbah?style=social)](https://twitter.com/dubem_mbah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dubem-mbah/)
 
 ### Languages & Tools: 
