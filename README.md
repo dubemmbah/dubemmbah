@@ -1,4 +1,4 @@
-![Project Image](https://img.freepik.com/free-photo/fantasy-website-agency-office-illustration_1409-5876.jpg?ga=GA1.1.1877106984.1699472407&semt=ais_ai_generated)
+![Project Image](https://img.freepik.com/premium-photo/futuristic-workspace-person-working-with-floating-screens_955695-3917.jpg?ga=GA1.1.1877106984.1699472407&semt=ais_ai_generated)
 ## Hello, I'm Chukwudubem Mbah
 
 ### A dedicated Frontend developer from the vibrant city of Lagos.
