@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/react-%23323359.svg?style=for-the-badge&logo=react&logoColor=%#8b5cf6)
 ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%25467833.svg?style=for-the-badge&logo=git&logoColor=blue)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemmbah&hide_progress=true&custom_icon=https://img.icons8.com/material-two-tone/24/000000/github.png)
